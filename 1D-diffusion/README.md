@@ -13,3 +13,8 @@ This project simulates transient 1D heat conduction through a multilayer materia
 ### Install Dependencies
 ```bash
 pip install -r requirements.txt
+
+```
+
+### The notebook will create an animation and save it as an html file to open localy in a browser.
+Example: [📽️ View animation](figures/temperature_evolution.html)
