@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vibr"
+version = "0.1.0"
+description = "Python-based tool for simulating mechanical vibrations"
+authors = [
+    {name = "Dominic Ditmyer"}
+]
+dependencies = [
+    "numpy",
+    "matplotlib"
+]
