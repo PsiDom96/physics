@@ -1,9 +1,0 @@
-venv/
-.venv/
-__pycache__/
-*.pyc
-*.pyo
-*.egg-info/
-build/
-dist/
-.ipynb_checkpoints/ 
